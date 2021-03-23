@@ -6,9 +6,9 @@ samoyed-data
 ## Tests :
 
 - ajout de bruit gaussien sur le dataset puis débruitage et mesure PSNR
-- ecart-type bruit gaussien allant de 5% à ????% de l'amplitude de l'image (1 ou 255) donc on aura une courbe
-- mean MSE to original images (pareil courbe en fonction de l'ecart type)
-- Temps debruitage 1000 images
+- ecart-type bruit gaussien allant de 5% à ????% de l'amplitude de l'image donc on aura une courbe
+- mean MSE to original images
+- Temps debruitage 1000 images (took too much time so i reduced it) 
 - *demosaicking ?*
 
 ## Methodes que l'on souhaite implémenté:
